@@ -1,2 +1,3 @@
 # JavaScript_Project
-Projet pour IUT MMI
+Projet perso
+J'apprends le JS
